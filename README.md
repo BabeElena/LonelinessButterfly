@@ -63,20 +63,19 @@ Fesliyan Studios
 8-bit / 16-bit Sound Effects (by JDWazabi)
 
 **Musics List**
-Lite Saturation - Calm Room
-Jesse Spillane - Level 1
-Lite Saturation - Calm Room Piano 
-Koi-discovery - Shoot-Gun 01
-Lisa Hammer - Bad Dreams
-HoliznaCC0 - House Of The Rising Sun
-Mr Smith - Awkward Cafe
-Monroeville Music Center - The Cave of Time
-Anthem of Rain - Bad Nostalgia
-Mid-Air Machine - Four Corners
-Kevin MacLeod - Off to Osaka
-Monkey Warhol - Magnum
-
-Dragonic Symphony
+Lite Saturation - Calm Room /
+Jesse Spillane - Level 1 /
+Lite Saturation - Calm Room Piano / 
+Koi-discovery - Shoot-Gun 01 /
+Lisa Hammer - Bad Dreams /
+HoliznaCC0 - House Of The Rising Sun /
+Mr Smith - Awkward Cafe /
+Monroeville Music Center - The Cave of Time /
+Anthem of Rain - Bad Nostalgia /
+Mid-Air Machine - Four Corners /
+Kevin MacLeod - Off to Osaka /
+Monkey Warhol - Magnum /
+Dragonic Symphony /
 PerituneMaterial
 
 **Donators**
