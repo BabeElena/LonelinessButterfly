@@ -44,14 +44,13 @@ Aesica
 iVillain
 Tsukimi
 
-**Graphics by**
-Freepik
-
 **Graphic Assets by**
-BabeElena
-Sierraassets Furnitures (by Sierraassets)
-Draciel
-Freepik
+BabeElena /
+Sierraassets / 
+Draciel /
+Freepik / 
+Rawpixel / 
+Moenettewashere
 
 **Font Used**
 Timed San Serif
