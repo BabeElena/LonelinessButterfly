@@ -22,27 +22,27 @@ faithenstein
 Rosa Solitaria
 
 **Ideas & Assists**
-MasterJin
-Ynwthal
-Owen6936
+MasterJin /
+Ynwthal / 
+Owen6936 /
 
 **Plugins by**
-BabeElena
-Owen6936
-VisuStella
-Yoji Ojima
-TheoAllen
-K.Chavez
-Nonolar
-GALV
-Coelocanth
-SRDude
-XthemeCore
-Himework
-Terrax
-Aesica
-iVillain
-Tsukimi
+BabeElena /
+Owen6936 /
+VisuStella /
+Yoji Ojima /
+TheoAllen /
+K.Chavez /
+Nonolar /
+GALV /
+Coelocanth /
+SRDude /
+XthemeCore /
+Himework /
+Terrax /
+Aesica /
+iVillain /
+Tsukimi /
 
 **Graphic Assets by**
 BabeElena /
@@ -56,9 +56,9 @@ Moenettewashere
 Timed San Serif
 
 **Sound Effects Used**
-RPG Maker
-Pixabay
-Fesliyan Studios
+RPG Maker /
+Pixabay /
+Fesliyan Studios /
 8-bit / 16-bit Sound Effects (by JDWazabi)
 
 **Musics List**
@@ -78,25 +78,25 @@ Dragonic Symphony /
 PerituneMaterial
 
 **Donators**
-Rimuchii
-Tai Ma
-Princess LadyRain
-machetti
-Mada
+Rimuchii /
+Tai Ma /
+Princess LadyRain /
+machetti /
+Mada /
 And all donation supporters.
 
 **Special Thanks**
-RPG Maker Themed Jam
-RPG Beta Tester
+RPG Maker Themed Jam /
+RPG Beta Tester /
 Ryuusei & Meenmoon Watchers
-IRPG
-Gameworldth
-กลุ่ม "สร้างเกมด้วยโปรแกรมตระกูล RPG Maker" 
-Beregon
-ZZNEWJOKERZZ
-MONGONGAMER
-HawkZombie
-A.V. Doscow
+IRPG /
+Gameworldth /
+กลุ่ม "สร้างเกมด้วยโปรแกรมตระกูล RPG Maker" /
+Beregon /
+ZZNEWJOKERZZ /
+MONGONGAMER /
+HawkZombie /
+A.V. Doscow 
 
 And you!
 
