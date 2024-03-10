@@ -50,7 +50,8 @@ Sierraassets /
 Draciel /
 Freepik / 
 Rawpixel / 
-Moenettewashere
+Moenettewashere /
+macrovector
 
 **Font Used**
 Timed San Serif
@@ -83,7 +84,7 @@ Tai Ma /
 Princess LadyRain /
 machetti /
 Mada /
-And all donation supporters.
+And all donation supporters. 
 
 **Special Thanks**
 RPG Maker Themed Jam /
