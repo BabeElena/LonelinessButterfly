@@ -60,7 +60,9 @@ Timed San Serif
 RPG Maker /
 Pixabay /
 Fesliyan Studios /
-8-bit / 16-bit Sound Effects (by JDWazabi)
+8-bit / 
+16-bit Sound Effects (by JDWazabi) /
+Pepper Sound Pack
 
 **Musics List**
 Lite Saturation - Calm Room /
