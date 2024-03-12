@@ -60,6 +60,7 @@ Timed San Serif
 **Sound Effects Used**
 RPG Maker /
 Pixabay /
+Julius H /
 Fesliyan Studios /
 8-bit / 
 16-bit Sound Effects (by JDWazabi) /
