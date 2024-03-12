@@ -14,6 +14,7 @@ Tsitsa
 
 **Sprites by**
 BabeElena
+Daren
 
 **Soundtrack by**
 faithenstein
