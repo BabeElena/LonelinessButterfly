@@ -52,7 +52,8 @@ Draciel /
 Freepik / 
 Rawpixel / 
 Moenettewashere /
-macrovector
+macrovector / 
+Schlangan
 
 **Font Used**
 Timed San Serif
